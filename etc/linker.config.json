@@ -1,0 +1,20 @@
+{
+	"provideLibs": [	
+		    "libdummy_binary_libtinyxml2.a-x86_64-v2.so",
+		    "libdummy_binary_libtinyxml2.a.so",
+		    "libdummy_ext_tinyxml2-x86_64-v2.so",
+		    "libdummy_ext_tinyxml2.so",
+		    "libdummy_headers_ext_tinyxml2-x86_64-v2.so",
+		    "libdummy_headers_ext_tinyxml2.so",
+		    "libdummy_pkgconfig_ext_tinyxml2-x86_64-v2.so",
+		    "libdummy_pkgconfig_ext_tinyxml2.so",
+		    "libtinyxml2-x86_64-v2.so",
+		    "libtinyxml2.so"
+	],
+	"requireLibs": [	
+		    "libc.so",
+		    "libdl.so",
+		    "libm.so"
+	],
+	"visible": true
+}

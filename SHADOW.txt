@@ -1,0 +1,6 @@
+shadow prebuilt repo: tinyxml2 (target)
+  upstream: external/tinyxml2
+  api-level: 34 (branch 34-20261016)
+  blobs: org.blisslabs.ag.ext.tinyxml2.apex
+  dev-src: extracted extractive payload (libtinyxml2.so, libtinyxml2.a, tinyxml2.h header) + root Android.bp
+  date: 2026-10-16
